@@ -1,0 +1,9 @@
+Note: these materials were not presented at the ACRES REU last 
+academic year.  They were originally used by Philipp Grete and
+Devin Silvia as a Python tutorial for the 2019 Conference for
+Undergraduate Women in Physics.  The general idea was that students
+could either start with the very basic "Intro to python for beginners"
+notebook or, if they were more advanced, jump to the Numpy and 
+Matplotlib notebooks.  All will require Python, Numpy, and Matplotlib
+installed (so, really, the Anaconda python distribution would be best).
+

@@ -1,0 +1,2 @@
+auROC	log2(auPRC/prior)	log2(P@r10/prior)	log2(P@r20/prior)	log2(P@r50/prior)	R@r10	R@r20	R@r50
+0.4897959183673469	0.9682911402726618	-inf	-inf	-inf	0.0	0.0	0.0
